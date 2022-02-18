@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kimone Premlall
-- 👀 I’m interested in developing efficient and reliable applications
+- 👀 I’m interested in trying out the latest tech trends
 - 🌱 I’m currently learning how to create CI/CD pipelines and build web scrapers
 - 📫 How to reach me: kimpremlall@gmail.com
 
